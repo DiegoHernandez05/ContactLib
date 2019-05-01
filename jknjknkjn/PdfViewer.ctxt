@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PdfViewer
+comment1.params=
+comment1.target=PdfViewer()
+comment2.params=
+comment2.target=void\ initial()
+comment3.params=string
+comment3.target=javax.swing.JButton\ createButton(java.lang.String)
+comment4.params=
+comment4.target=void\ main()
+comment5.params=
+comment5.target=void\ run()
+numComments=6
